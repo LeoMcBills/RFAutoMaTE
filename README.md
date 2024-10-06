@@ -2,6 +2,8 @@
 
 Welcome to RFAutoMaTE, **R**adio **F**requency **Auto**matic **Ma**tching and **T**uning **E**quipment, our go-to solution for seamless Radio Frequency (RF) coil matching and tuning in low-field (< 100 mT) MRI scanners.
 
+We, a team of highly passionate under-grad Biomedical Engineers from MRI-Uganda, are in a process to reproduce this work form i3M low-field MRI laboratory from Valencia, Spain.
+
 ## Overview
 
 RFAutoMaTE is designed to provide efficient and automatic matching of RF coils to ensure optimal performance and signal quality in Magnetic Resonance Imaging (MRI) systems.
