@@ -62,4 +62,3 @@ RFAutoMaTE is released under the GNU General Public License (GPL) v3.0.
 Feel free to reach out if you have any questions or need assistance.
 
 Happy matching and tuning!
-
